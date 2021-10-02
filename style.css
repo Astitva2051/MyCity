@@ -145,6 +145,14 @@ body {
 
 @media screen and (max-width: 500px) {
 
+    #youtube-vid {
+       width: 50%;
+       Height: auto;
+    }
+    body {
+       font-size: 35px;
+    }
+
     .people-heading {
         text-align: center;
     }
