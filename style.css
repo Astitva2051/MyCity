@@ -134,7 +134,7 @@ body {
 @media screen and (max-width: 768px) {
 
     body {
-        font-size: 30px;
+        font-size: 40px;
     }
 
     .people-carousel {
@@ -155,7 +155,7 @@ body {
 @media screen and (max-width: 500px) {
 
     body {
-        font-size: 35px;
+        font-size: 40px;
     }
 
     .people-heading {
