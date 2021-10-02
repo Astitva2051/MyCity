@@ -134,7 +134,7 @@ body {
 @media screen and (max-width: 768px) {
 
     body {
-        font-size: 40px;
+        font-size: 50px;
     }
 
     .people-carousel {
@@ -149,6 +149,9 @@ body {
     .card {
         margin-left: 17%;
     }
+      #Places {
+        background-color: orange;
+    }
 
 }
 
@@ -158,9 +161,6 @@ body {
         font-size: 50px;
     }
     
-    #Places {
-        background-color: orange;
-    }
     .people-heading {
         text-align: center;
     }
