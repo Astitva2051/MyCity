@@ -136,7 +136,11 @@ body {
     body {
         font-size: 30px;
     }
-
+     h1,
+    h2,
+    h3 {
+        font-size: 35px;
+    }
     .people-carousel {
         flex: 1;
         justify-content: center;
@@ -160,7 +164,11 @@ body {
     body {
         font-size: 30px;
     }
-    
+     h1,
+    h2,
+    h3 {
+        font-size: 35px;
+    }
     .people-heading {
         text-align: center;
     }
