@@ -53,15 +53,16 @@ body {
     position: fixed;
     top: -50px;
     width: 100%;
-    display: block;
+    display: flex;
     transition: top 0.3s;
     left: 0;
     z-index: 10000;
+    justify-content:space-between;
 
 }
 
 #navbar a {
-    float: right;
+    float: left;
     display: block;
     color: white;
     text-align: center;
