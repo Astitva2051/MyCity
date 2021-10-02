@@ -53,11 +53,10 @@ body {
     position: fixed;
     top: -50px;
     width: 100%;
-    display: flex;
+    display: block;
     transition: top 0.3s;
     left: 0;
     z-index: 10000;
-    justify-content:space-between;
 
 }
 
