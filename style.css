@@ -251,9 +251,39 @@ input[type=submit]:hover {
     #video {
         flex-wrap: nowrap;
     }
-   #navbar a {
-        margin-left: 1px;
-    }
-    
-
 }
+@media screen and (max-width: 420px){
+ #navbar a {
+   margin-left: 0px;
+   padding: 5px;
+  }
+ body {
+        font-size: 30px;
+    }
+     h1,
+    h2,
+    h3 {
+        font-size: 40px;
+    }
+    .people-heading {
+        text-align: center;
+    }
+
+    .people-carousel {
+        flex: 1;
+        justify-content: center;
+    }
+
+    .people-slide {
+        width: 100%;
+    }
+
+    .card {
+        margin-left: 0%;
+    }
+
+    #video {
+        flex-wrap: nowrap;
+    }
+}
+
