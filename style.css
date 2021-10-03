@@ -251,5 +251,9 @@ input[type=submit]:hover {
     #video {
         flex-wrap: nowrap;
     }
+   #navbar a {
+        margin-left: 1px;
+    }
+    
 
 }
